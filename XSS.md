@@ -1,8 +1,4 @@
-# Performance Indicator System v1.0 has stored cross-site scripting
-
 BUG_Author: BaiXiJun
-
-Website source code address: https://www.sourcecodester.com/php/11638/performance-indicator-system.html
 
 Vulnerability File: /opils/admin/addproduct.php
 
